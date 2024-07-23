@@ -1,0 +1,7 @@
+{
+    "plugins": [{
+        "name": "QQ音乐",
+        "url": "https://raw.githubusercontent.com/gwjwin/MusicFreePlugins/main/dist/qq_ob/index.js",
+        "version": "0.2.2-alpha.3"
+    }]
+}
