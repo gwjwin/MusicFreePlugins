@@ -1,4 +1,4 @@
-# MusicFreePlugins
+![image](https://github.com/user-attachments/assets/abd674be-ebd0-4c8f-970d-6066fa75b51b)# MusicFreePlugins
 a powerful modified plugins for MusicFree
 
 - I'm not the author, I have no source code.
@@ -12,3 +12,8 @@ This repository is just a backup for the plugins code.
 - The 'netease' plugin is outdated, please using the ofiicial version. (https://raw.githubusercontent.com/gwjwin/MusicFreePlugins/main/official/netease/index.js)
 - The 'kuwo' plugin is broken.
 - The 'migu' plugin is bronke.
+
+The step to add plugins:
+- Add latest official plugins. (https://raw.githubusercontent.com/maotoumao/MusicFreePlugins/master/plugins.json)
+- Add last old site plugins. (https://raw.githubusercontent.com/gwjwin/MusicFreePlugins/main/official/plugins.json)
+- Add this VIP plugins. (https://raw.githubusercontent.com/gwjwin/MusicFreePlugins/main/stillwork.json)
