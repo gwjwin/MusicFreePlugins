@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/abd674be-ebd0-4c8f-970d-6066fa75b51b)# MusicFreePlugins
+# MusicFreePlugins
 a powerful modified plugins for MusicFree
 
 - I'm not the author, I have no source code.
